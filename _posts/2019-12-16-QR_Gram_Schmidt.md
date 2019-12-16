@@ -7,7 +7,6 @@ categories: 线性代数
 ---
 
 本文主要介绍QR分解的一种实现算法：经典Gram-Schmidt算法，并且以4x3矩阵$A$为例。
-
 $$
 A = [v_1, v_2, v_3] = \left[\begin{array}{ccc}{1} & {0} & {1} \\ {2} & {0} & {0} \\ {0} & {1} & {0} \\ {1} & {-1} & {1}\end{array}\right].
 $$
