@@ -137,7 +137,7 @@ $$
 
 $$
 \begin{eqnarray}
-h(w_0^{}, \mathbf{w}^)
+h(w_0^{*}, \mathbf{w}^{*})
 &=& \frac{1}{n} \sum \limits_{i=1}^{n} \left(y_i - w_0^* - \sum \limits_{j=1}^{p} \frac{x_{ij} - \overline{x}_j}{\sigma_j} w_j^* \right)^2 + \lambda \lVert \mathbf{w}^* \rVert  \\
 &=& \frac{1}{n} \sum \limits_{i=1}^{n} \left(y_i - w_0^* - \mathbf{w}^{*T}\Sigma^{-1}(\mathbf{x}_i - \overline{\mathbf{x}})\right)^2 + \lambda \lVert \mathbf{w}^* \rVert
 \end{eqnarray}
