@@ -3,7 +3,7 @@ layout: post
 title: 机器学习基石笔记第一章：感知机（PLA）
 date: 2020-3-12
 author: 唐涵
-categories: 数值线性代数
+categories: 机器学习
 mathjax: true
 ---
 
