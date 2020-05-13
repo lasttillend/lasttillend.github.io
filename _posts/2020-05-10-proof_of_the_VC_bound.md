@@ -323,3 +323,10 @@ $$
 取$$t=\frac{\epsilon}{4}$$即可证得引理3。
 
 由引理1、2、3就可以证明定理2（VC不等式）。
+
+
+
+**参考文献**
+
+Abu-Mostafa, Y. S., Magdon-Ismail, M., & Lin, H. (2012). *Learning from data: a short course.* [United States]: AMLBook.com.
+

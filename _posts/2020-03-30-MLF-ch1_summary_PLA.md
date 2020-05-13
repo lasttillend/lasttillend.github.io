@@ -536,3 +536,8 @@ ax.legend();
 
 加上“背景色”后，我们就可以清楚地看到分类边界和错分点了。
 
+
+
+**参考文献**
+
+Abu-Mostafa, Y. S., Magdon-Ismail, M., & Lin, H. (2012). *Learning from data: a short course.* [United States]: AMLBook.com.
