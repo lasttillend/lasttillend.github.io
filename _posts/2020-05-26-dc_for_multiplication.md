@@ -7,7 +7,7 @@ categories: algorithm, divide and conquer
 mathjax: true
 ---
 
-最近在看 [*Algorithm*](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 的分治法（Divide and Conquer）部分，发现书中举的几个例子很有意思，今天想分享的就是第一个例子：用分治法优化整数乘法。这个例子虽然简单，但是非常巧妙。
+最近在看 [*Algorithms*](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402) 的分治法（Divide and Conquer）部分，发现书中举的几个例子很有意思，今天想分享的就是第一个例子：用分治法优化整数乘法。这个例子虽然简单，但是非常巧妙。
 
 假设$x$和$y$是两个$n$-bit的整数，为了方便，假设$n$是2的幂次。于是每个数都可以等分成左右各$n/2$bit:
 
