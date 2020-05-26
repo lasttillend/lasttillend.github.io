@@ -83,7 +83,7 @@ def multiply(x, y, n):
     Args:
         x: int
         y: int
-        n: int, assumed to be multiple of 2
+        n: int, assumed to be power of 2
     Returns:
         prod: int
     """
